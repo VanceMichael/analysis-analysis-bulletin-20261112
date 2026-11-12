@@ -1,0 +1,20 @@
+{
+  "materiality": 0.02,
+  "subscriptions": [
+    {
+      "id": "ops-eu",
+      "zone": "Europe/Berlin",
+      "localTime": "09:00",
+      "countries": [
+        "DE",
+        "FR"
+      ]
+    }
+  ],
+  "artifacts": [
+    {
+      "id": "demo",
+      "explanation": "演练指标点，仅用于内部复盘。"
+    }
+  ]
+}

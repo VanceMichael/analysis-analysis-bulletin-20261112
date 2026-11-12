@@ -1,0 +1,965 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W40",
+      "value": 0.1,
+      "cutoff": 10,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0000"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W40",
+      "value": 0.11,
+      "cutoff": 10,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0001"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W40",
+      "value": 0.12,
+      "cutoff": 10,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0002"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W40",
+      "value": 0.13,
+      "cutoff": 10,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0003"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W41",
+      "value": 0.14,
+      "cutoff": 11,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0004"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W41",
+      "value": 0.15,
+      "cutoff": 11,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0005"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W41",
+      "value": 0.16,
+      "cutoff": 11,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0006"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W41",
+      "value": 0.1,
+      "cutoff": 11,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0007"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W42",
+      "value": 0.11,
+      "cutoff": 12,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0008"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W42",
+      "value": 0.12,
+      "cutoff": 12,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0009"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W42",
+      "value": 0.13,
+      "cutoff": 12,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0010"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W42",
+      "value": 0.14,
+      "cutoff": 12,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0011"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W43",
+      "value": 0.15,
+      "cutoff": 13,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0012"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W43",
+      "value": 0.16,
+      "cutoff": 13,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0013"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W43",
+      "value": 0.1,
+      "cutoff": 13,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0014"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W43",
+      "value": 0.11,
+      "cutoff": 13,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0015"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W44",
+      "value": 0.12,
+      "cutoff": 14,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0016"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W44",
+      "value": 0.13,
+      "cutoff": 14,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0017"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W44",
+      "value": 0.14,
+      "cutoff": 14,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0018"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W44",
+      "value": 0.15,
+      "cutoff": 14,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0019"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W45",
+      "value": 0.16,
+      "cutoff": 15,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0020"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W45",
+      "value": 0.1,
+      "cutoff": 15,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0021"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W45",
+      "value": 0.11,
+      "cutoff": 15,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0022"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W45",
+      "value": 0.12,
+      "cutoff": 15,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0023"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W46",
+      "value": 0.13,
+      "cutoff": 16,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0024"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W46",
+      "value": 0.14,
+      "cutoff": 16,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0025"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W46",
+      "value": 0.15,
+      "cutoff": 16,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0026"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W46",
+      "value": 0.16,
+      "cutoff": 16,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0027"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W47",
+      "value": 0.1,
+      "cutoff": 17,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0028"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W47",
+      "value": 0.11,
+      "cutoff": 17,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0029"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W47",
+      "value": 0.12,
+      "cutoff": 17,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0030"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W47",
+      "value": 0.13,
+      "cutoff": 17,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0031"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W48",
+      "value": 0.14,
+      "cutoff": 18,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0032"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W48",
+      "value": 0.15,
+      "cutoff": 18,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0033"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W48",
+      "value": 0.16,
+      "cutoff": 18,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0034"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W48",
+      "value": 0.1,
+      "cutoff": 18,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0035"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W49",
+      "value": 0.11,
+      "cutoff": 19,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0036"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W49",
+      "value": 0.12,
+      "cutoff": 19,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0037"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W49",
+      "value": 0.13,
+      "cutoff": 19,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0038"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W49",
+      "value": 0.14,
+      "cutoff": 19,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0039"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W50",
+      "value": 0.15,
+      "cutoff": 20,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0040"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W50",
+      "value": 0.16,
+      "cutoff": 20,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0041"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W50",
+      "value": 0.1,
+      "cutoff": 20,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0042"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W50",
+      "value": 0.11,
+      "cutoff": 20,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0043"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W51",
+      "value": 0.12,
+      "cutoff": 21,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0044"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W51",
+      "value": 0.13,
+      "cutoff": 21,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0045"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W51",
+      "value": 0.14,
+      "cutoff": 21,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0046"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W51",
+      "value": 0.15,
+      "cutoff": 21,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0047"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W52",
+      "value": 0.16,
+      "cutoff": 22,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0048"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W52",
+      "value": 0.1,
+      "cutoff": 22,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0049"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W52",
+      "value": 0.11,
+      "cutoff": 22,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0050"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W52",
+      "value": 0.12,
+      "cutoff": 22,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0051"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W53",
+      "value": 0.13,
+      "cutoff": 23,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0052"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W53",
+      "value": 0.14,
+      "cutoff": 23,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0053"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W53",
+      "value": 0.15,
+      "cutoff": 23,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0054"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W53",
+      "value": 0.16,
+      "cutoff": 23,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0055"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W54",
+      "value": 0.1,
+      "cutoff": 24,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0056"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W54",
+      "value": 0.11,
+      "cutoff": 24,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0057"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W54",
+      "value": 0.12,
+      "cutoff": 24,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0058"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W54",
+      "value": 0.13,
+      "cutoff": 24,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0059"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W55",
+      "value": 0.14,
+      "cutoff": 25,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0060"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W55",
+      "value": 0.15,
+      "cutoff": 25,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0061"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W55",
+      "value": 0.16,
+      "cutoff": 25,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0062"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W55",
+      "value": 0.1,
+      "cutoff": 25,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0063"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W56",
+      "value": 0.11,
+      "cutoff": 26,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0064"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W56",
+      "value": 0.12,
+      "cutoff": 26,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0065"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W56",
+      "value": 0.13,
+      "cutoff": 26,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0066"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W56",
+      "value": 0.14,
+      "cutoff": 26,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0067"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W57",
+      "value": 0.15,
+      "cutoff": 27,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0068"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W57",
+      "value": 0.16,
+      "cutoff": 27,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0069"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W57",
+      "value": 0.1,
+      "cutoff": 27,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0070"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W57",
+      "value": 0.11,
+      "cutoff": 27,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0071"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W58",
+      "value": 0.12,
+      "cutoff": 28,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0072"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W58",
+      "value": 0.13,
+      "cutoff": 28,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0073"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W58",
+      "value": 0.14,
+      "cutoff": 28,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0074"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W58",
+      "value": 0.15,
+      "cutoff": 28,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0075"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W59",
+      "value": 0.16,
+      "cutoff": 29,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0076"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W59",
+      "value": 0.1,
+      "cutoff": 29,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0077"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W59",
+      "value": 0.11,
+      "cutoff": 29,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0078"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W59",
+      "value": 0.12,
+      "cutoff": 29,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0079"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W60",
+      "value": 0.13,
+      "cutoff": 30,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0080"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W60",
+      "value": 0.14,
+      "cutoff": 30,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0081"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W60",
+      "value": 0.15,
+      "cutoff": 30,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0082"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W60",
+      "value": 0.16,
+      "cutoff": 30,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0083"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W61",
+      "value": 0.1,
+      "cutoff": 31,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0084"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W61",
+      "value": 0.11,
+      "cutoff": 31,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0085"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W61",
+      "value": 0.12,
+      "cutoff": 31,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0086"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W61",
+      "value": 0.13,
+      "cutoff": 31,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0087"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W62",
+      "value": 0.14,
+      "cutoff": 32,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0088"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W62",
+      "value": 0.15,
+      "cutoff": 32,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0089"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W62",
+      "value": 0.16,
+      "cutoff": 32,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0090"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W62",
+      "value": 0.1,
+      "cutoff": 32,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0091"
+    },
+    {
+      "metric": "conversion",
+      "country": "DE",
+      "period": "2026-W63",
+      "value": 0.11,
+      "cutoff": 33,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0092"
+    },
+    {
+      "metric": "refund",
+      "country": "DE",
+      "period": "2026-W63",
+      "value": 0.12,
+      "cutoff": 33,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0093"
+    },
+    {
+      "metric": "conversion",
+      "country": "FR",
+      "period": "2026-W63",
+      "value": 0.13,
+      "cutoff": 33,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0094"
+    },
+    {
+      "metric": "refund",
+      "country": "FR",
+      "period": "2026-W63",
+      "value": 0.14,
+      "cutoff": 33,
+      "definition": "m1",
+      "status": "estimated",
+      "id": "r0095"
+    }
+  ]
+}
