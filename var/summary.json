@@ -1,0 +1,24 @@
+{
+  "count": 96,
+  "groupBy": "metric",
+  "groups": [
+    {
+      "count": 48,
+      "definitions": [
+        "m1"
+      ],
+      "key": "conversion",
+      "sum": 6.220000000000001
+    },
+    {
+      "count": 48,
+      "definitions": [
+        "m1"
+      ],
+      "key": "refund",
+      "sum": 6.21
+    }
+  ],
+  "inputFingerprint": "e2e4b155c8986c5649923ff4e3d1b1bf0d6fb4165d394e0186aaa7eba21a1c2e",
+  "valueField": "value"
+}
